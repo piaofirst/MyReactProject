@@ -5,14 +5,6 @@ import {
     View,
     Switch
 } from 'react-native';
-// var React = require('react');
-// var ReactNative = require('react-native');
-// var {
-//     StyleSheet,
-//     Text,
-//     View,
-//     PanResponder
-// } = ReactNative;
 
 // var Switch = require('./Switch');
 // import Switch from './Switch';
