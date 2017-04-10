@@ -241,5 +241,7 @@ const styles = StyleSheet.create({
 // AppRegistry.registerComponent('MyReactProject', () => SimpleNavigationApp);
 // import PanResponderExample  from './PanDemo'
 // AppRegistry.registerComponent('MyReactProject', () => PanResponderExample);
-import CrossPlatform  from './switch/CrossPlatform'
-AppRegistry.registerComponent('MyReactProject', () => CrossPlatform);
+// import CrossPlatform  from './switch/CrossPlatform'
+// AppRegistry.registerComponent('MyReactProject', () => CrossPlatform);
+import Mondrian  from './Mondrian'
+AppRegistry.registerComponent('MyReactProject', () => Mondrian);
